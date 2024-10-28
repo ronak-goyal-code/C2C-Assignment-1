@@ -16,4 +16,6 @@ int main(){
 
     cout<<"Fractional part of "<<num<<" is : "<<fractional_part<<endl;
 
+    return 0;
+
 }
